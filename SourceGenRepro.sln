@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoNotifyGenerator", "AutoNotifyGenerator\AutoNotifyGenerator.csproj", "{C49594AC-5135-4292-98C1-7BD3DEFD3D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorWPFConsumer", "GeneratorWPFConsumer\GeneratorWPFConsumer.csproj", "{BB02BB9A-0DBA-45C3-83C2-C2E4AEC1E65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49594AC-5135-4292-98C1-7BD3DEFD3D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49594AC-5135-4292-98C1-7BD3DEFD3D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49594AC-5135-4292-98C1-7BD3DEFD3D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49594AC-5135-4292-98C1-7BD3DEFD3D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB02BB9A-0DBA-45C3-83C2-C2E4AEC1E65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB02BB9A-0DBA-45C3-83C2-C2E4AEC1E65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB02BB9A-0DBA-45C3-83C2-C2E4AEC1E65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB02BB9A-0DBA-45C3-83C2-C2E4AEC1E65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978DA1BC-ACE4-45A5-A89B-399CFEFD2899}
+	EndGlobalSection
+EndGlobal
